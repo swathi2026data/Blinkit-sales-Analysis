@@ -20,10 +20,10 @@ This project focuses on analyzing Blinkit sales data using Microsoft Power BI. A
 ![Blinkit Dashboard Page 1](blinkit%20page1.png)
 
 ### Page 2
-![Blinkit Dashboard Page 2](blinkit%20page%202.png)
+![Blinkit Dashboard Page 2](blink%20it%20page%202.png)
 
 ### Page 3
-![Blinkit Dashboard Page 3](blinkit%20page%203.png)
+![Blinkit Dashboard Page 3](blink%20it%20page%203.png)
 
 ## Key Skills Demonstrated
 - Power BI Dashboard Design
